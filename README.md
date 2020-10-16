@@ -19,3 +19,4 @@
 
 ### リンク
 - [Qiita](https://qiita.com/kntkymt)
+- [AtCoder](https://atcoder.jp/users/kntkymt)
