@@ -10,6 +10,10 @@
     - [デモ](https://discord-clone-36c89.web.app/)
     ※ ユーザー名の入力が求められますが、「test」等を入力していただければ大丈夫です。
     
+### 開発に関わったサービス
+- NitechBB [iOS](https://apps.apple.com/us/app/id1525858812)/[Android](https://play.google.com/store/apps/details?id=com.c0de_mattari.nitechbb): 名工大学生掲示板閲覧アプリ開発補助
+- Nitechピロリン [iOS](https://apps.apple.com/us/app/id1449703640): 名工大出席管理アプリ開発補助
+    
 ### AtCoder
 
 ![Badge](https://cp-logo.vercel.app/atcoder/kntkymt)
