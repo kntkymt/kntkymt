@@ -13,6 +13,9 @@
 ### 開発に関わったサービス
 - NitechBB [iOS](https://apps.apple.com/us/app/id1525858812)/[Android](https://play.google.com/store/apps/details?id=com.c0de_mattari.nitechbb): 名工大学生掲示板閲覧アプリ開発補助
 - Nitechピロリン [iOS](https://apps.apple.com/us/app/id1449703640): 名工大出席管理アプリ開発補助
+
+### インターン
+- 2020/2/19~2020/3/27 [株式会社スタメン](https://stmn.co.jp/) 就労型インターン(iOSアプリ開発)
     
 ### AtCoder
 
