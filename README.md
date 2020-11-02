@@ -6,9 +6,10 @@
 
 ### 製作物
 - [Qiita for iOS](https://github.com/kntkymt/Qiita_for_iOS): Qiita閲覧アプリ
-- [discord_clone_beta](https://github.com/kntkymt/discord_clone_firebase): React + Firebaseで作ったDiscordのクローンアプリ
+- [discord clone firebase](https://github.com/kntkymt/discord_clone_firebase): React + Firebaseで作ったDiscordのクローンアプリ
     - [デモ](https://discord-clone-36c89.web.app/)
     ※ ユーザー名の入力が求められますが、「test」等を入力していただければ大丈夫です。
+- [discord clone golang](https://github.com/kntkymt/discord_clone_golang): React + Golangで作ったDiscordのクローンアプリ
     
 ### 開発に関わったサービス
 - NitechBB [iOS](https://apps.apple.com/us/app/id1525858812)/[Android](https://play.google.com/store/apps/details?id=com.c0de_mattari.nitechbb): 名工大学生掲示板閲覧アプリ開発補助
