@@ -2,7 +2,7 @@
 
 ### 自己紹介
 - Swiftが好きな情報系大学生
-- iOS(Swift)/Android(Kotlin)メイン, React.TS, backend(Go), AWSがちょっと
+- メイン: iOS(Swift), Android(Kotlin) サブ: React.TS, backend(Go), AWS
 
 ### 製作物
 - [Qiita for iOS](https://github.com/kntkymt/Qiita_for_iOS): Qiita閲覧アプリ
@@ -17,6 +17,10 @@
 
 ### インターン
 - 2020/2/19~2020/3/27 [株式会社スタメン](https://stmn.co.jp/) 就労型インターン(iOSアプリ開発)
+
+### 資格等
+- TOEIC 840
+- ITパスポート
     
 ### AtCoder
 
