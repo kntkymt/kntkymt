@@ -22,13 +22,14 @@
 - TOEIC 840
 - ITパスポート
 - 基本情報技術者試験
+- 応用情報技術者試験
     
 ### AtCoder
 
 ![Badge](https://cp-logo.vercel.app/atcoder/kntkymt)
 
-- 最近流行りに乗ってAtCoderを始めた若輩者です...
-- 言語はSwiftを使用しています。AtCoder & Swift紹介記事→ [(Qiita)[AtCoder]Swiftでも競プロがしたい！](https://qiita.com/kntkymt/items/4f02c6b90462f354de6d)
+- 言語はSwiftを使用しています。
+    - AtCoder & Swift紹介記事: [(Qiita)[AtCoder]Swiftでも競プロがしたい！](https://qiita.com/kntkymt/items/4f02c6b90462f354de6d)
 
 ### リンク
 - [Qiita](https://qiita.com/kntkymt)
