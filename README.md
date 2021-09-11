@@ -6,7 +6,7 @@
 
 ### 製作物
 - [Qiita for iOS](https://github.com/kntkymt/Qiita_for_iOS): Qiita閲覧アプリ
-- [Qiita for iOS　SwiftUI](https://github.com/kntkymt/Qiita_for_iOS_SwiftUI): Qiita閲覧アプリ ver SwiftUI
+- [Qiita for iOS SwiftUI](https://github.com/kntkymt/Qiita_for_iOS_SwiftUI): Qiita閲覧アプリ ver SwiftUI
 - [discord clone firebase](https://github.com/kntkymt/discord_clone_firebase): React + Firebaseで作ったDiscordのクローンアプリ
     - [デモ](https://discord-clone-36c89.web.app/)
     ※ ユーザー名の入力が求められますが、「test」等を入力していただければ大丈夫です。
