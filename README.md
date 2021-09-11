@@ -2,10 +2,11 @@
 
 ### 自己紹介
 - Swiftが好きな情報系大学生
-- メイン: iOS(Swift), Android(Kotlin) サブ: React.TS, backend(Go), AWS
+- iOS(Swift), Android(Kotlin)のモバイルアプリ開発を主軸に、React.TS, backend(Go)などの分野も趣味で触っています。
 
 ### 製作物
 - [Qiita for iOS](https://github.com/kntkymt/Qiita_for_iOS): Qiita閲覧アプリ
+- [Qiita for iOS　SwiftUI](https://github.com/kntkymt/Qiita_for_iOS_SwiftUI): Qiita閲覧アプリ ver SwiftUI
 - [discord clone firebase](https://github.com/kntkymt/discord_clone_firebase): React + Firebaseで作ったDiscordのクローンアプリ
     - [デモ](https://discord-clone-36c89.web.app/)
     ※ ユーザー名の入力が求められますが、「test」等を入力していただければ大丈夫です。
