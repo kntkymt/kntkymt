@@ -7,6 +7,7 @@
 ### 製作物
 - [Qiita for iOS](https://github.com/kntkymt/Qiita_for_iOS): Qiita閲覧アプリ
 - [Qiita for iOS SwiftUI](https://github.com/kntkymt/Qiita_for_iOS_SwiftUI): Qiita閲覧アプリ ver SwiftUI
+- [株式会社ゆめみ iOS エンジニアコードチェック課題](https://github.com/kntkymt/yumemi-ios-engineer-codecheck): 株式会社ゆめみ iOSインターン選考の際に作成したGitHub閲覧アプリ
 - [discord clone firebase](https://github.com/kntkymt/discord_clone_firebase): React + Firebaseで作ったDiscordのクローンアプリ
     - [デモ](https://discord-clone-36c89.web.app/)
     ※ ユーザー名の入力が求められますが、「test」等を入力していただければ大丈夫です。
@@ -18,6 +19,7 @@
 
 ### インターン
 - 2020/2/19~2020/3/27 [株式会社スタメン](https://stmn.co.jp/) 就労型インターン(iOSアプリ開発)
+- 2021/11/24~2021/12/7 [株式会社ゆめみ](https://www.yumemi.co.jp/) 通年インターン・実務(iOSアプリ開発)
 
 ### 資格等
 - TOEIC 840
