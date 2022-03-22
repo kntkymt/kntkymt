@@ -14,15 +14,16 @@
 - [discord clone golang](https://github.com/kntkymt/discord_clone_golang): React + Golangで作ったDiscordのクローンアプリ
     
 ### 開発に関わったサービス
-- NitechBB [iOS](https://apps.apple.com/us/app/id1525858812)/[Android](https://play.google.com/store/apps/details?id=com.c0de_mattari.nitechbb): 名工大学生掲示板閲覧アプリ開発補助
-- Nitechピロリン [iOS](https://apps.apple.com/us/app/id1449703640): 名工大出席管理アプリ開発補助
+- NITechBB [iOS](https://apps.apple.com/us/app/id1525858812)/[Android](https://play.google.com/store/apps/details?id=com.c0de_mattari.nitechbb): 名工大学生掲示板閲覧アプリ開発補助
+- Nitechピロリン(旧) [iOS](https://apps.apple.com/us/app/id1449703640)/[Android](https://play.google.com/store/apps/details?id=jp.ac.nitech.pyrroline): 名工大出席管理アプリ開発補助
+- NITechピロリン [iOS](https://apps.apple.com/us/app/id1584907746): 名工大出席管理アプリ開発補助
 
 ### インターン
 - 2020/2/19~2020/3/27 [株式会社スタメン](https://stmn.co.jp/) 就労型インターン(iOSアプリ開発)
 - 2021/11/24~2021/12/7 [株式会社ゆめみ](https://www.yumemi.co.jp/) 通年インターン・実務(iOSアプリ開発)
 
 ### 資格等
-- TOEIC 840
+- TOEIC L&R 840
 - ITパスポート
 - 基本情報技術者試験
 - 応用情報技術者試験
