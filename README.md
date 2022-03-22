@@ -9,8 +9,6 @@
 - [Qiita for iOS SwiftUI](https://github.com/kntkymt/Qiita_for_iOS_SwiftUI): Qiita閲覧アプリ ver SwiftUI
 - [株式会社ゆめみ iOS エンジニアコードチェック課題](https://github.com/kntkymt/yumemi-ios-engineer-codecheck): 株式会社ゆめみ iOSインターン選考の際に作成したGitHub閲覧アプリ
 - [discord clone firebase](https://github.com/kntkymt/discord_clone_firebase): React + Firebaseで作ったDiscordのクローンアプリ
-    - [デモ](https://discord-clone-36c89.web.app/)
-    ※ ユーザー名の入力が求められますが、「test」等を入力していただければ大丈夫です。
 - [discord clone golang](https://github.com/kntkymt/discord_clone_golang): React + Golangで作ったDiscordのクローンアプリ
     
 ### 開発に関わったサービス
