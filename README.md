@@ -19,6 +19,7 @@
 ### インターン
 - 2020/2/19~2020/3/27 [株式会社スタメン](https://stmn.co.jp/) 就労型インターン(iOSアプリ開発)
 - 2021/11/24~2021/12/7 [株式会社ゆめみ](https://www.yumemi.co.jp/) 通年インターン・実務(iOSアプリ開発)
+- 2022/4/1~2022/6/30 [株式会社メルカリ](https://about.mercari.com/) 通年インターン・実務 Software Engineer (iOS)
 
 ### 資格等
 - TOEIC L&R 840
