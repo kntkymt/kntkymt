@@ -1,7 +1,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kntkymt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 自己紹介
-- Swiftが好きな情報系大学生
+- Swiftが好きな情報系大学院生
 - iOS(Swift), Android(Kotlin)のモバイルアプリ開発を主軸に、React.TS, backend(Go)などの分野も趣味で触っています。
 
 ### 製作物
