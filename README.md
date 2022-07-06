@@ -21,6 +21,7 @@
 - 2020/2/19~2020/3/27 [stmn, inc](https://stmn.co.jp/) working Intern (iOS Engineer)
 - 2021/11/24~2021/12/7 [Yumemi, inc](https://www.yumemi.co.jp/) working Intern (iOS Engineer)
 - 2022/4/1~2022/6/30 [Mercari, inc](https://about.mercari.com/) working Intern Software Engineer (iOS)
+- 2022/7/6~2022/7/29 [Pixiv, inc](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
 
 ### qualifications
 - TOEIC L&R 840
