@@ -23,7 +23,10 @@
 - 2022/4/1~2022/6/30 [Mercari, inc](https://about.mercari.com/) working Intern Software Engineer (iOS)
 - 2022/7/6~2022/7/29 [Pixiv, inc](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
 
-### qualifications
+### Conference
+- iOSDC Japan 2022 [大学で出席管理アプリ・掲示板閲覧アプリを開発・運用している学生の話](https://fortee.jp/iosdc-japan-2022/proposal/f4ca136c-710e-4373-8b4c-1a4265ff5ed7)
+
+### Qualifications
 - TOEIC L&R 840
 - ITパスポート (Information Technology Passport Examination)
 - 基本情報技術者試験 (Fundamental Information Technology Engineer Examination）
