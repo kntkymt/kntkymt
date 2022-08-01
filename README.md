@@ -21,7 +21,8 @@
 - 2020/2/19~2020/3/27 [stmn, inc](https://stmn.co.jp/) working Intern (iOS Engineer)
 - 2021/11/24~2021/12/7 [Yumemi, inc](https://www.yumemi.co.jp/) working Intern (iOS Engineer)
 - 2022/4/1~2022/6/30 [Mercari, inc](https://about.mercari.com/) working Intern Software Engineer (iOS)
-- 2022/7/6~2022/7/29 [Pixiv, inc](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
+- 2022/7/6~2022/7/29 [pixiv, inc](https://www.pixiv.co.jp/) working Intern Mobile Engineer (iOS)
+- 2022/8/1~2022/8/5 [cybozu, inc](https://cybozu.co.jp/) working Intern Mobine Engineer (iOS)
 
 ### Conference
 - iOSDC Japan 2022 [大学で出席管理アプリ・掲示板閲覧アプリを開発・運用している学生の話](https://fortee.jp/iosdc-japan-2022/proposal/f4ca136c-710e-4373-8b4c-1a4265ff5ed7)
