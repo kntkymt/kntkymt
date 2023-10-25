@@ -18,7 +18,8 @@
 
 ### Conference
 - iOSDC Japan 2022 [大学で出席管理アプリ・掲示板閲覧アプリを開発・運用している学生の話](https://fortee.jp/iosdc-japan-2022/proposal/f4ca136c-710e-4373-8b4c-1a4265ff5ed7)
-    
+- iOSDC Japan 2023 [SwiftUIでの非同期処理データの状態管理を考える](https://fortee.jp/iosdc-japan-2023/proposal/a4c24d91-094d-443c-97ba-27d648e6b2e0)
+
 ### AtCoder
 
 ![Badge](https://cp-logo.vercel.app/atcoder/kntkymt)
