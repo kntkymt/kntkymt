@@ -1,9 +1,8 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kntkymt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Introduction
-- I'm currently master degree of computer science.
 - I love Swift.
-- I usually develop iOS(Swift), Android(Kotlin) mobile app, and also develop React.TS, backend(Go) as hobby.
+- I usually develop iOS(Swift), Android(Kotlin) mobile app.
 
 ### Works
 - [Qiita for iOS](https://github.com/kntkymt/Qiita_for_iOS): Article Reader app of Qiita
